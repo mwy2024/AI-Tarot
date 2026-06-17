@@ -4,7 +4,9 @@
 
 ## 演示效果
 
-<video src="demo演示.mp4" controls width="100%"></video>
+<video src="https://github.com/mwy2024/AI-Tarot/releases/download/v1.0/demo.mp4" controls width="100%"></video>
+
+> 如果视频无法播放，可以[点击这里下载观看](https://github.com/mwy2024/AI-Tarot/releases/download/v1.0/demo.mp4)
 
 ## 项目简介
 
